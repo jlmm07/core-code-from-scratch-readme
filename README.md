@@ -1,1 +1,3 @@
-# core-code-from-scratch-readme
+# Menu
+- Week 1
+- Week 2
